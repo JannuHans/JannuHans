@@ -4,7 +4,6 @@
 ### 🚀 Full Stack Developer | Machine Learning Enthusiast | Competitive Programmer
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JannuHans&style=flat-square&color=blue" alt="profile views"/>
   <a href="mailto:jannuhans8@gmail.com">
     <img src="https://img.shields.io/badge/Email-jannuhans8%40gmail.com-red?logo=gmail&logoColor=white" />
   </a>
@@ -94,8 +93,6 @@
   <a href="mailto:jannuhans8@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="36" height="36"/></a>
   <a href="https://www.linkedin.com/in/jannu-hans-16181a2a1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="36" height="36"/></a>
   <a href="https://portfolio-chi-woad-47.vercel.app/"><img src="https://img.icons8.com/fluency/48/domain.png" width="36" height="36"/></a>
-  <a href="https://codeforces.com/profile/lowwkey"><img src="https://img.icons8.com/color/48/codeforces.png" width="36" height="36"/></a>
-  <a href="https://leetcode.com/u/eskNui2NpB/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="36" height="36"/></a>
 </p>
 
 ---
